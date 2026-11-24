@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Khelifi Anis Maamar | Software Developer</title>
+<meta name="description" content="Personal portfolio of Khelifi Anis Maamar, focused on software development, programming and cybersecurity.">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#07111f;color:#eaf4ff;font-family:Arial,sans-serif}
+main{max-width:900px;margin:auto;padding:70px 24px}
+.tag{color:#38bdf8;letter-spacing:3px}
+h1{font-size:clamp(36px,8vw,65px);margin:20px 0}
+h2{color:#38bdf8}
+p{line-height:1.8;color:#b8c8da}
+.card{background:#101f32;border:1px solid #24405c;padding:22px;border-radius:15px;margin:15px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+a{color:#38bdf8}
+footer{margin-top:50px;color:#8298ad}
+</style>
+</head>
+<body>
+<main>
+<div class="tag">DEVELOPMENT • TECHNOLOGY • SECURITY</div>
+<h1>KHELIFI ANIS MAAMAR</h1>
+<h2>Software Development & Cybersecurity</h2>
+<p>Exploring software engineering, programming, computer science and secure digital technologies.</p>
+<div class="card">
+<h2>Professional Profile</h2>
+<p>Interested in software development, full-stack engineering, web application security, programming and information technology.</p>
+</div>
+<h2>Areas of Interest</h2>
+<div class="grid">
+<div class="card">Software Development</div>
+<div class="card">Full-Stack Development</div>
+<div class="card">Programming & Coding</div>
+<div class="card">Cybersecurity</div>
+<div class="card">Web Application Security</div>
+<div class="card">Computer Science & IT</div>
+</div>
+<div class="card">
+<h2>Location</h2>
+<p>Istanbul, Türkiye</p>
+</div>
+<footer>© 2026 Khelifi Anis Maamar</footer>
+</main>
+</body>
+</html>
